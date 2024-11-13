@@ -3,9 +3,9 @@ IMPLEMENTATION OF THE BACK END OF THE COMPILER
 
 ### DATE: 26.10.2024
 
-# Aim :
+# AIM :
 To write a program to implement the back end of the compiler.
-# ALGORITHM
+# ALGORITHM:
 1. Start the program.
 2. Get the three variables from statements and stored in the text file k.txt.
 3. Compile the program and give the path of the source file.
@@ -13,7 +13,7 @@ To write a program to implement the back end of the compiler.
 5. Target code for the given statement is produced.
 6. Stop the program.
    
-# PROGRAM
+# PROGRAM:
 ```
 #include <stdio.h>
 #include <ctype.h>
@@ -50,11 +50,11 @@ int main()
     return 0;
 }
 ```
-# OUTPUT
+# OUTPUT:
 ![image](https://github.com/user-attachments/assets/110fc020-66d9-443a-a5ed-99ffe2f93c0d)
 
-## Program Output:
+## PROGRAM OUTPUT:
 ![image](https://github.com/user-attachments/assets/fb72d23a-3865-4853-80ed-3b5ad58fe3a6)
 
-# Result
+# RESULT:
 The back end of the compiler is implemented successfully, and the output is verified.
